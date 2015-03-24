@@ -1,0 +1,31 @@
+{
+  "name": "vue-streamify",
+  "version": "0.0.0",
+  "description": "Functional Reactive Programming plugin for Vue.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kazupon/vue-streamify.git"
+  },
+  "keywords": [
+    "Vue.js",
+    "FRP",
+    "stream",
+    "plugin"
+  ],
+  "author": "kazuya kawaguchi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kazupon/vue-streamify/issues"
+  },
+  "homepage": "https://github.com/kazupon/vue-streamify",
+  "devDependencies": {
+    "vue": "^0.11.5"
+  },
+  "dependencies": {
+    "highland": "^2.4.0"
+  }
+}
